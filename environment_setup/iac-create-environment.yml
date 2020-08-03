@@ -17,7 +17,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-- group: MLOps-Library
+- group: devopsforai-aml-vg
 
 
 steps:
